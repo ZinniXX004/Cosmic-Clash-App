@@ -1,4 +1,4 @@
-# Run and deploy the App
+# Run and deploy the Cosmic Clash App
 
 This contains everything you need to run the app locally.
 
